@@ -1,0 +1,11 @@
+<html>
+  <head>
+    <title>FIRST UPGRAGE ASSIGNMENT</title>
+    <h1>current Time and Date  </h1>
+
+  </head>
+  <body>
+    <script> document.write(Date()) </script>
+    <script>window.print() </script>
+  </body>
+</html>
